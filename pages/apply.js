@@ -35,7 +35,7 @@ export default function Home() {
                 <li className="my-2">
                   You wish to apply for a Master&apos;s or PhD degree at a
                   university of international repute outside India within the
-                  next 2 academic years.
+                  next academic year.
                 </li>
               </ul>
               <p>
