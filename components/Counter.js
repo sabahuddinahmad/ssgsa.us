@@ -20,19 +20,19 @@ const Counter = () => {
         />
       </div>
       <div>
-        <CountUp start={0} end={21} duration={1} />
+        <CountUp start={0} end={23} duration={1} />
         <span className="lg:text-5xl md:text-4xl sm:text-3xl">+</span>
         <br />{' '}
         <span className="lg:text-3xl md:text-2xl sm:text-xl">countries</span>
       </div>
       <div>
-        <CountUp start={0} end={110} duration={1} />
+        <CountUp start={0} end={135} duration={1} />
         <span className="lg:text-5xl md:text-4xl sm:text-3xl">+</span>
         <br />{' '}
         <span className="lg:text-3xl md:text-2xl sm:text-xl">universities</span>
       </div>
       <div>
-        <CountUp start={0} end={150} duration={1} />
+        <CountUp start={0} end={180} duration={1} />
         <span className="lg:text-5xl md:text-4xl sm:text-3xl">+</span>
         <br />
         <span className="lg:text-3xl md:text-2xl sm:text-xl">scholars</span>
