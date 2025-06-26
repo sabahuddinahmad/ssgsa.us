@@ -49,8 +49,7 @@ const DateTable = ({ bgcolor, textcolor, textbold }) => {
           </tr>
           <tr>
             <td className={`${bgcolor} ${textcolor} ${textbold} p-2`}>
-              Announcement of Sir Syed Global Scholar Awardees{' '}
-              {dates.session || ''}
+              Announcement of Results
             </td>
             <td className="border-2 border-gray-300 p-2">
               {dates.awardeesAnnouncement || '-'}
