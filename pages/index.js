@@ -17,7 +17,7 @@ export default function Home() {
               apply!
             </a>
           </Link> */}
-          Applications for the cycle 2025-26 are closed.
+          Applications for the cycle 2025-26 are closed.      Please keep an eye on our social media sites for current events & webinars!
         </marquee>
       </div>
       <Counter />
