@@ -67,12 +67,12 @@ const Apply = () => {
           </button>
         </a>
         <a
-          href="/assets/PressRelease_SSGSA_2023_24.pdf"
+          href="/assets/PressRelease_SSGSA_2025_26.pdf"
           target="_blank"
           rel="noopener noreferrer"
         >
           <button className="px-2 py-2 mt-3 w-full bg-red-850 text-sm text-white text-center">
-            SSGSA results (2023-2024) announced
+            SSGSA results (2025-2026) announced
           </button>
         </a>
         <a
@@ -108,7 +108,7 @@ const Apply = () => {
           rel="noopener noreferrer"
         >
           <button className="px-2 py-2 mt-3 w-full bg-red-850 text-sm text-white text-center">
-            Press Release Statement of SSGSA Convention 2020
+            SSGSA Convention 2020
           </button>
         </a>
       </div>
