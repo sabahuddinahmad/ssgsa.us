@@ -12,7 +12,7 @@ export default function Home() {
     <MainLayout>
       <div className="mt-8">
         <Banner
-          message="Results for the cycle 2025-26 are announced."
+          message="Results for the cycle 2025-26 are announced.      Please keep an eye on our social media sites for current events & webinars!"
           link=""
         />
       </div>
